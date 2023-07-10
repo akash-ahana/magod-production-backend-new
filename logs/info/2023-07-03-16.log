@@ -1,0 +1,6 @@
+2023-07-03T11:08:39.825Z [test] info: listening on port 5001
+2023-07-03T11:15:40.343Z [test] error: Incorrect integer value: 'undefined' for column 'TotalOn' at row 1
+2023-07-03T11:17:08.184Z [test] info: listening on port 5001
+2023-07-03T11:18:53.445Z [test] info: listening on port 5001
+2023-07-03T11:24:30.993Z [test] info: listening on port 5002
+2023-07-03T11:29:50.059Z [test] info: listening on port 5002

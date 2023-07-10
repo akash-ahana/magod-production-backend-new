@@ -1,0 +1,48 @@
+2023-06-29T08:55:35.627Z [test] info: listening on port 5001
+2023-06-29T08:56:06.018Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T08:56:06.025Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T08:57:59.059Z [test] info: listening on port 5001
+2023-06-29T09:00:47.153Z [test] info: listening on port 5001
+2023-06-29T09:00:50.906Z [test] error: Status Code : undefined  - Error : finalDay1 is not defined
+2023-06-29T09:01:58.332Z [test] info: listening on port 5001
+2023-06-29T09:02:02.705Z [test] error: Status Code : undefined  - Error : finalDay1 is not defined
+2023-06-29T09:02:19.491Z [test] info: listening on port 5001
+2023-06-29T09:02:23.629Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:02:23.633Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:02:52.835Z [test] info: listening on port 5001
+2023-06-29T09:02:57.197Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:02:57.201Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:04:23.928Z [test] info: listening on port 5001
+2023-06-29T09:04:26.858Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:04:26.863Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:04:56.178Z [test] info: listening on port 5001
+2023-06-29T09:05:09.813Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:05:09.818Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:06:27.124Z [test] info: listening on port 5001
+2023-06-29T09:06:30.007Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:06:30.012Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:08:05.727Z [test] info: listening on port 5001
+2023-06-29T09:08:10.640Z [test] error: Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:08:10.644Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21/06/2021 06:00' for column 'FromTime' at row 1
+2023-06-29T09:08:35.738Z [test] info: listening on port 5001
+2023-06-29T09:08:38.016Z [test] error: Status Code : undefined  - Error : Assignment to constant variable.
+2023-06-29T09:09:00.874Z [test] info: listening on port 5001
+2023-06-29T09:09:03.672Z [test] error: Status Code : undefined  - Error : Assignment to constant variable.
+2023-06-29T09:10:16.000Z [test] info: listening on port 5001
+2023-06-29T09:10:19.080Z [test] error: Status Code : undefined  - Error : Assignment to constant variable.
+2023-06-29T09:11:35.929Z [test] info: listening on port 5001
+2023-06-29T09:11:52.438Z [test] error: Status Code : undefined  - Error : Assignment to constant variable.
+2023-06-29T09:12:54.904Z [test] info: listening on port 5001
+2023-06-29T09:12:58.450Z [test] error: Incorrect datetime value: '2021/06/2106:00:00' for column 'FromTime' at row 1
+2023-06-29T09:12:58.454Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '2021/06/2106:00:00' for column 'FromTime' at row 1
+2023-06-29T09:13:23.474Z [test] info: listening on port 5001
+2023-06-29T09:13:27.316Z [test] error: Incorrect datetime value: '2021/06/2106:00:00' for column 'FromTime' at row 1
+2023-06-29T09:13:27.321Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '2021/06/2106:00:00' for column 'FromTime' at row 1
+2023-06-29T09:13:41.576Z [test] info: listening on port 5001
+2023-06-29T09:13:44.187Z [test] error: Incorrect datetime value: 'undefined' for column 'ToTime' at row 1
+2023-06-29T09:13:44.191Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: 'undefined' for column 'ToTime' at row 1
+2023-06-29T09:15:52.548Z [test] info: listening on port 5001
+2023-06-29T09:16:55.291Z [test] info: listening on port 5001
+2023-06-29T09:16:58.302Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading 'split')
+2023-06-29T09:17:53.929Z [test] info: listening on port 5001
+2023-06-29T09:21:58.877Z [test] info: listening on port 5001

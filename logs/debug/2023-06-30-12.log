@@ -1,0 +1,13 @@
+2023-06-30T06:32:10.756Z [test] error: Status Code : undefined  - Error : Analytics1 is not defined
+2023-06-30T06:33:53.468Z [test] info: listening on port 5001
+2023-06-30T06:34:03.707Z [test] error: Status Code : undefined  - Error : Analytics1 is not defined
+2023-06-30T06:39:10.074Z [test] info: listening on port 5001
+2023-06-30T06:39:12.547Z [test] error: Status Code : undefined  - Error : Production is not defined
+2023-06-30T06:39:47.517Z [test] info: listening on port 5001
+2023-06-30T06:39:52.690Z [test] error: Status Code : undefined  - Error : production is not defined
+2023-06-30T06:49:58.236Z [test] info: listening on port 5001
+2023-06-30T06:50:05.814Z [test] error: Status Code : undefined  - Error : production is not defined
+2023-06-30T06:58:03.594Z [test] error: Status Code : undefined  - Error : production is not defined
+2023-06-30T06:58:48.671Z [test] info: listening on port 5001
+2023-06-30T07:26:56.108Z [test] info: listening on port 5001
+2023-06-30T07:27:01.804Z [test] error: Status Code : undefined  - Error : connection is not defined

@@ -1,0 +1,35 @@
+2023-07-08T11:52:52.765Z [test] info: listening on port 5002
+2023-07-08T11:54:19.761Z [test] info: listening on port 5002
+2023-07-08T11:54:49.547Z [test] info: listening on port 5002
+2023-07-08T11:56:42.800Z [test] info: listening on port 5002
+2023-07-08T11:57:57.168Z [test] info: listening on port 5002
+2023-07-08T11:58:55.404Z [test] info: listening on port 5002
+2023-07-08T11:59:40.408Z [test] info: listening on port 5002
+2023-07-08T12:01:15.304Z [test] info: listening on port 5002
+2023-07-08T12:01:37.671Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:04:28.967Z [test] info: listening on port 5002
+2023-07-08T12:04:45.059Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:04:53.214Z [test] info: listening on port 5002
+2023-07-08T12:05:15.023Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:06:34.542Z [test] info: listening on port 5002
+2023-07-08T12:06:53.639Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:09:34.457Z [test] info: listening on port 5002
+2023-07-08T12:09:44.250Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:10:37.282Z [test] info: listening on port 5002
+2023-07-08T12:10:49.475Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T12:13:11.240Z [test] info: listening on port 5002
+2023-07-08T12:13:24.204Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading '0')
+2023-07-08T12:16:22.029Z [test] info: listening on port 5002
+2023-07-08T12:16:30.049Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading '0')
+2023-07-08T12:17:56.514Z [test] info: listening on port 5002
+2023-07-08T12:19:21.654Z [test] info: listening on port 5002
+2023-07-08T12:19:40.303Z [test] error: Status Code : undefined  - Error : misConn is not defined
+2023-07-08T12:19:58.093Z [test] info: listening on port 5002
+2023-07-08T12:20:38.793Z [test] info: listening on port 5002
+2023-07-08T12:20:53.200Z [test] error: Status Code : undefined  - Error : misQueryMod.query is not a function
+2023-07-08T12:21:09.375Z [test] info: listening on port 5002
+2023-07-08T12:24:10.494Z [test] info: listening on port 5002
+2023-07-08T12:25:12.743Z [test] info: listening on port 5002
+2023-07-08T12:27:19.864Z [test] info: listening on port 5002
+2023-07-08T12:28:15.793Z [test] info: listening on port 5002
+2023-07-08T12:29:24.580Z [test] info: listening on port 5002

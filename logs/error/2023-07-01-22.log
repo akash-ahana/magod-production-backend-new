@@ -1,0 +1,2 @@
+2023-07-01T16:30:28.577Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading 'custcode')
+2023-07-01T16:31:27.020Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading 'custcode')

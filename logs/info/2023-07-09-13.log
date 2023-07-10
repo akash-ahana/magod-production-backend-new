@@ -1,0 +1,14 @@
+2023-07-09T07:31:08.132Z [test] info: listening on port 5002
+2023-07-09T07:31:33.670Z [test] error: Status Code : undefined  - Error : Unknown column 'mus.NonProd' in 'field list'
+2023-07-09T07:32:07.351Z [test] info: listening on port 5002
+2023-07-09T07:35:37.739Z [test] info: listening on port 5002
+2023-07-09T07:35:54.896Z [test] error: Status Code : undefined  - Error : Unknown column 'mus.NonProd' in 'field list'
+2023-07-09T07:36:13.775Z [test] info: listening on port 5002
+2023-07-09T07:40:36.306Z [test] info: listening on port 5002
+2023-07-09T07:42:42.718Z [test] info: listening on port 5002
+2023-07-09T07:47:59.552Z [test] info: listening on port 5002
+2023-07-09T07:50:21.786Z [test] info: listening on port 5002
+2023-07-09T07:52:00.427Z [test] info: listening on port 5002
+2023-07-09T07:53:17.429Z [test] info: listening on port 5002
+2023-07-09T07:54:48.881Z [test] info: listening on port 5002
+2023-07-09T07:56:53.509Z [test] info: listening on port 5002

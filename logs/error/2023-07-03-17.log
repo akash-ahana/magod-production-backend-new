@@ -1,0 +1,7 @@
+2023-07-03T11:39:19.768Z [test] error: Incorrect date value: '$2022-06-21' for column 'Date' at row 1
+2023-07-03T11:49:48.665Z [test] error: Incorrect date value: '2022-06-232' for column 'Date' at row 1
+2023-07-03T12:06:31.049Z [test] error: Incorrect DATE value: 'undefined'
+2023-07-03T12:26:43.786Z [test] error: Status Code : undefined  - Error : targetDate is not defined
+2023-07-03T12:26:44.912Z [test] error: Status Code : undefined  - Error : targetDate is not defined
+2023-07-03T12:28:27.855Z [test] error: Incorrect DATE value: ''
+2023-07-03T12:29:09.498Z [test] error: Incorrect DATE value: ''

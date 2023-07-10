@@ -1,0 +1,7 @@
+2023-06-29T09:53:29.632Z [test] error: Status Code : undefined  - Error : Cannot read properties of undefined (reading 'data')
+2023-06-29T10:01:10.056Z [test] error: Incorrect datetime value: '21-06-21,06,2021 10:43:00' for column 'FromTime' at row 1
+2023-06-29T10:01:10.061Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21-06-21,06,2021 10:43:00' for column 'FromTime' at row 1
+2023-06-29T10:02:25.054Z [test] error: Incorrect datetime value: '21-06-2021 10:43:00' for column 'FromTime' at row 1
+2023-06-29T10:02:25.058Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21-06-2021 10:43:00' for column 'FromTime' at row 1
+2023-06-29T10:03:55.612Z [test] error: Incorrect datetime value: '21-06-2021 10:43:00' for column 'FromTime' at row 1
+2023-06-29T10:03:55.616Z [test] error: Status Code : undefined  - Error : Incorrect datetime value: '21-06-2021 10:43:00' for column 'FromTime' at row 1
