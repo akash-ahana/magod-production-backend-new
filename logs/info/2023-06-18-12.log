@@ -1,0 +1,3 @@
+2023-06-18T06:56:40.100Z [test] info: listening on port 5001
+2023-06-18T06:57:09.251Z [test] error: Unknown column 'shift_id' in 'field list'
+2023-06-18T06:58:25.450Z [test] info: listening on port 5001

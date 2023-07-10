@@ -1,0 +1,9 @@
+2023-07-04T04:32:19.333Z [test] info: listening on port 5002
+2023-07-04T04:58:10.190Z [test] info: listening on port 5002
+2023-07-04T05:15:18.430Z [test] info: listening on port 5002
+2023-07-04T05:15:23.712Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
+2023-07-04T05:16:35.597Z [test] info: listening on port 5002
+2023-07-04T05:17:01.913Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
+2023-07-04T05:17:03.037Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
+2023-07-04T05:19:37.356Z [test] info: listening on port 5002
+2023-07-04T05:26:06.096Z [test] info: listening on port 5002

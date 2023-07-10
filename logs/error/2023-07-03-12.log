@@ -1,0 +1,1 @@
+2023-07-03T07:25:48.945Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOn = '1340', ProdON = 'undefined', NonProdOn = '1340',LaserOn= 'undefined',' at line 1

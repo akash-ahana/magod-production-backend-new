@@ -1,0 +1,22 @@
+2023-06-17T14:33:24.159Z [test] info: listening on port 5001
+2023-06-17T14:33:28.092Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='790'' at line 1
+2023-06-17T14:33:45.549Z [test] info: listening on port 5001
+2023-06-17T14:33:52.114Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:34:50.041Z [test] info: listening on port 5001
+2023-06-17T14:34:53.911Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:36:01.538Z [test] info: listening on port 5001
+2023-06-17T14:36:05.928Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:36:22.112Z [test] info: listening on port 5001
+2023-06-17T14:36:26.500Z [test] error: Unknown column 'ProdON' in 'field list'
+2023-06-17T14:38:39.785Z [test] info: listening on port 5001
+2023-06-17T14:38:49.574Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:39:32.480Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:39:52.100Z [test] info: listening on port 5001
+2023-06-17T14:39:57.315Z [test] error: Unknown column 'TotalOn' in 'field list'
+2023-06-17T14:42:55.067Z [test] info: listening on port 5001
+2023-06-17T14:43:04.635Z [test] error: Unknown column 'LaserOn' in 'field list'
+2023-06-17T14:43:25.222Z [test] info: listening on port 5001
+2023-06-17T14:43:29.597Z [test] error: Unknown column 'LaserOn' in 'field list'
+2023-06-17T14:43:38.300Z [test] error: Unknown column 'LaserOn' in 'field list'
+2023-06-17T14:43:54.339Z [test] info: listening on port 5001
+2023-06-17T14:43:58.358Z [test] error: Unknown column 'TotalOff' in 'field list'

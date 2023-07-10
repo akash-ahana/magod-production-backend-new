@@ -1,0 +1,1 @@
+2023-06-16T09:04:38.572Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? AND d.ShiftDate <= ? AND s.DayShiftID = d.DayShiftId AND s.ShiftID = s1.ShiftI' at line 1

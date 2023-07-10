@@ -1,0 +1,5 @@
+2023-06-17T08:34:58.157Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='undefined'' at line 1
+2023-06-17T08:35:47.454Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='undefined'' at line 1
+2023-06-17T08:36:07.632Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='undefined'' at line 1
+2023-06-17T08:37:34.512Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='790'' at line 1
+2023-06-17T08:38:28.493Z [test] error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'TotalOff ='100' where ID='790'' at line 1

@@ -1,0 +1,32 @@
+2023-07-08T16:43:15.077Z [test] error: Truncated incorrect DOUBLE value: 'undefined'
+2023-07-08T16:47:56.608Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T16:48:17.247Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T16:48:22.082Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T16:49:21.616Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T16:49:32.769Z [test] error: Status Code : undefined  - Error : undefined
+2023-07-08T17:01:03.348Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:01:03.572Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:01:12.955Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:01:13.157Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:10:22.108Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:10:38.171Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:10:53.135Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:11:47.023Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:11:51.001Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:11:51.237Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:12:30.077Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:12:30.293Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:12:35.811Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:12:36.016Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:13:02.064Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:13:17.131Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:13:55.153Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:14:10.120Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:14:21.849Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:14:22.059Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:14:30.058Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:17:05.802Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:17:09.236Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:17:09.462Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:17:19.024Z [test] error: Incorrect DATE value: 'undefined-undefined-'
+2023-07-08T17:18:10.163Z [test] error: Incorrect DATE value: 'undefined-undefined-'

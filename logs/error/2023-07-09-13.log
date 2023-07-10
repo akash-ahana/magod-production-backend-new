@@ -1,0 +1,2 @@
+2023-07-09T07:31:33.670Z [test] error: Status Code : undefined  - Error : Unknown column 'mus.NonProd' in 'field list'
+2023-07-09T07:35:54.896Z [test] error: Status Code : undefined  - Error : Unknown column 'mus.NonProd' in 'field list'

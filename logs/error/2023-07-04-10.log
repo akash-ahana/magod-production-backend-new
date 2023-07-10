@@ -1,0 +1,3 @@
+2023-07-04T05:15:23.712Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
+2023-07-04T05:17:01.913Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
+2023-07-04T05:17:03.037Z [test] error: Status Code : undefined  - Error : Column 'Machine' in where clause is ambiguous
